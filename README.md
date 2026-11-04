@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm PPhetto 👋</h1>
 
 <p align="center">
-  Aspiring Software Developer | IT Support
+   Developer | IT Support
 </p>
 
 ---
