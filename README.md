@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**PPhetto/PPhetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm PPhetto 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Aspiring Software Developer | IT Support
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 💻 Interested in Web Development and Software Development
+- 🌱 Currently learning React, Next.js and Node.js
+- 🔧 Interested in IT Infrastructure and Automation
+- 🚀 Always learning and building new projects
+
+### 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express, C#, ASP.NET Core
+- **Database:** MySQL, SQL Server
+- **Tools:** Git, GitHub, VS Code
+
+### 📫 Connect with Me
+- GitHub: [@PPhetto](https://github.com/PPhetto)
